@@ -9,7 +9,7 @@
 - fullbright
 
 # 🔧 How-to-use
-1. Download some kind of injector (extreme injector for example)
+1. Download nevermore injector recode 
 2. ![Настройки](https://allwebs.ru/images/2026/02/04/95367590815799be2b17070f899a9945.md.png)
 3. Inject it to the stalcraft.exe 
 
